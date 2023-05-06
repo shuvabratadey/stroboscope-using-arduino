@@ -22,6 +22,8 @@ The high-power LED will be used to produce the flashes of light, and the potenti
 # Software Design:
 Once we have all the necessary hardware components, we can proceed to the software design. We will use the Arduino IDE to write the program that will control the flashing of the LED. We will use the digitalWrite() function to turn the LED on and off and the delay() function to create the flashing effect. here I takeing the help of millis() function insted of delay() function.
 
+https://github.com/shuvabratadey/stroboscope-using-arduino/blob/d7f7323356c847a2a979165b9f62832e6a62482f/Stroboscope/Stroboscope.ino
+
 # Some Pictures of this Project
 <img src="https://github.com/shuvabratadey/stroboscope-using-arduino/blob/main/Stroboscope%20Pictures/Starting%20Time.jpg" width="500"/>
 <img src="https://github.com/shuvabratadey/stroboscope-using-arduino/blob/main/Stroboscope%20Pictures/Start%20Measurement.jpg" width="500"/>
