@@ -30,4 +30,4 @@ Once we have all the necessary hardware components, we can proceed to the softwa
 </br><img src="https://github.com/shuvabratadey/stroboscope-using-arduino/blob/main/Stroboscope%20Pictures/Right%20Side.jpg" width="500"/>
 
 # Conclusion:
-In conclusion, building a stroboscope using an Arduino board is a relatively simple and fun project. By using a LED strip or high-power LED and a potentiometer, we can create a flashing effect with a controllable frequency. The code examples provided in this article are just the beginning, and you can modify them to suit your needs or add additional features.
+In conclusion, building a stroboscope using an Arduino board is a relatively simple and fun project. By using a high-power LED and a potentiometer, we can create a flashing effect with a controllable frequency. The code examples provided in this article are just the beginning, and you can modify them to suit your needs or add additional features.
